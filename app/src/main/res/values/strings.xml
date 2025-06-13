@@ -1,11 +1,9 @@
 <resources>
-    <string name="app_name">Minha Pesquisa</string>
-    <!-- res/values/strings.xml -->
-
-        <!-- ... -->
-    <string-array name="gender_array">
-        <item>Masculino</item>
-        <item>Feminino</item>
-    </string-array>
-
+    <string name="app_name">My Netflix</string>
+    <string name="titulo_filme">incrivel mundo de gumbal</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista">Minha Lista</string>
+    <!-- Substitua “Seu Nome” pelo seu nome real -->
+    <string name="seu_nome">luiz</string>
 </resources>
+
